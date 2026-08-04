@@ -1,10 +1,11 @@
 # Change Log
 <!-- usage documentation: http://expeditor-docs.es.chef.io/configuration/changelog/ -->
 
-<!-- latest_release unreleased -->
-## Unreleased
+<!-- latest_release 7.2.0 -->
+## [v7.2.0](https://github.com/inspec/inspec/tree/v7.2.0) (2026-08-04)
 
 #### Merged Pull Requests
+- CHEF-37474 - Updated Gemfile.lock with train-kubernetes [#7995](https://github.com/inspec/inspec/pull/7995) ([Nik08](https://github.com/Nik08))
 - InSpec 7: CHEF-34794 Copilot Skill for release notes [#7964](https://github.com/inspec/inspec/pull/7964) ([Nik08](https://github.com/Nik08))
 <!-- latest_release -->
 
@@ -38,6 +39,7 @@
 ### Changes since 7.1.7 release
 
 #### Merged Pull Requests
+- CHEF-37474 - Updated Gemfile.lock with train-kubernetes [#7995](https://github.com/inspec/inspec/pull/7995) ([Nik08](https://github.com/Nik08)) <!-- 7.2.0 -->
 - InSpec 7: CHEF-34794 Copilot Skill for release notes [#7964](https://github.com/inspec/inspec/pull/7964) ([Nik08](https://github.com/Nik08)) <!-- 7.1.17 -->
 - CHEF-36279 Linux hab plan changes with ruby-34-devkit [#7979](https://github.com/inspec/inspec/pull/7979) ([Nik08](https://github.com/Nik08)) <!-- 7.1.17 -->
 - feat: CHEF-29956 - Add aarch64-darwin Habitat package and CI pipeline support [#7987](https://github.com/inspec/inspec/pull/7987) ([mohan-progress](https://github.com/mohan-progress)) <!-- 7.1.16 -->
