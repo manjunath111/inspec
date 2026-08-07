@@ -1,12 +1,11 @@
 # Change Log
 <!-- usage documentation: http://expeditor-docs.es.chef.io/configuration/changelog/ -->
 
-<!-- latest_release 7.2.0 -->
-## [v7.2.0](https://github.com/inspec/inspec/tree/v7.2.0) (2026-08-04)
+<!-- latest_release 7.2.1 -->
+## [v7.2.1](https://github.com/inspec/inspec/tree/v7.2.1) (2026-08-07)
 
 #### Merged Pull Requests
-- CHEF-37474 - Updated Gemfile.lock with train-kubernetes [#7995](https://github.com/inspec/inspec/pull/7995) ([Nik08](https://github.com/Nik08))
-- InSpec 7: CHEF-34794 Copilot Skill for release notes [#7964](https://github.com/inspec/inspec/pull/7964) ([Nik08](https://github.com/Nik08))
+- Updated NOTICE.txt for InSpec version 7.2 [#7996](https://github.com/inspec/inspec/pull/7996) ([Nik08](https://github.com/Nik08))
 <!-- latest_release -->
 
 ## [v6.4.48](https://github.com/inspec/inspec/tree/v6.4.48) (2023-08-22)
@@ -39,6 +38,7 @@
 ### Changes since 7.1.7 release
 
 #### Merged Pull Requests
+- Updated NOTICE.txt for InSpec version 7.2 [#7996](https://github.com/inspec/inspec/pull/7996) ([Nik08](https://github.com/Nik08)) <!-- 7.2.1 -->
 - CHEF-37474 - Updated Gemfile.lock with train-kubernetes [#7995](https://github.com/inspec/inspec/pull/7995) ([Nik08](https://github.com/Nik08)) <!-- 7.2.0 -->
 - InSpec 7: CHEF-34794 Copilot Skill for release notes [#7964](https://github.com/inspec/inspec/pull/7964) ([Nik08](https://github.com/Nik08)) <!-- 7.1.17 -->
 - CHEF-36279 Linux hab plan changes with ruby-34-devkit [#7979](https://github.com/inspec/inspec/pull/7979) ([Nik08](https://github.com/Nik08)) <!-- 7.1.17 -->
